@@ -1,2 +1,2 @@
 therealaleph/MasterHttpRelayVPN-RUST
-denuitt1/mhr-cfw|\.zip
+denuitt1/mhr-cfw
