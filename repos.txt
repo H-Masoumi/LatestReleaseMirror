@@ -1,3 +1,5 @@
 therealaleph/MasterHttpRelayVPN-RUST
 xullexer/PYDNS-Scanner|\.exe
 Shayanthn/V2ray-Tester-Pro|\.exe
+denuitt1/mhr-cfw-go|\windows-amd64
+ThisIsDara/mhr-cfw-go|\windows-amd64
