@@ -157,28 +157,82 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="irnova--nova-proxy-app"></div>
+
+### IRNova--Nova-Proxy-App
+
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.1.1</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.1.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `NovaProxy.exe` | 28.6 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/NovaProxy.exe) |
+
+---
+
+<div id="thisisdara--mhr-cfw-go"></div>
+
+### ThisIsDara--mhr-cfw-go
+
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.4.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.4.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+
+---
+
+<div id="denuitt1--mhr-cfw-go"></div>
+
+### denuitt1--mhr-cfw-go
+
+🔗 [source](https://github.com/denuitt1/mhr-cfw-go) – [<code><small>v1.0.0</small></code>](https://github.com/denuitt1/mhr-cfw-go/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrcfw-cli-windows-amd64.zip` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/denuitt1/mhr-cfw-go/mhrcfw-cli-windows-amd64.zip) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.9</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.9)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.29</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.29)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.9.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.9.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.9.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.9.apk) |
-| `mhrv-rs-android-universal-v1.9.9.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.9.apk) |
-| `mhrv-rs-android-x86-v1.9.9.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.9.apk) |
-| `mhrv-rs-android-x86_64-v1.9.9.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.9.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 4.7 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-amd64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.3 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.0 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.29.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.29.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.29.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.29.apk) |
+| `mhrv-rs-android-universal-v1.9.29.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.29.apk) |
+| `mhrv-rs-android-x86-v1.9.29.apk` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.29.apk) |
+| `mhrv-rs-android-x86_64-v1.9.29.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.29.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-amd64.tar.gz` | 7.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="xullexer--pydns-scanner"></div>
+
+### xullexer--PYDNS-Scanner
+
+🔗 [source](https://github.com/xullexer/PYDNS-Scanner) – [<code><small>v2.0.5</small></code>](https://github.com/xullexer/PYDNS-Scanner/releases/tag/v2.0.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `pydns-scanner-linux` | 69.2 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/xullexer/PYDNS-Scanner/pydns-scanner-linux) |
+| `pydns-scanner-linux-aarch64` | 57.7 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/xullexer/PYDNS-Scanner/pydns-scanner-linux-aarch64) |
+| `pydns-scanner-linux-arm` | 57.1 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/xullexer/PYDNS-Scanner/pydns-scanner-linux-arm) |
+| `pydns-scanner-macos` | 59.8 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/xullexer/PYDNS-Scanner/pydns-scanner-macos) |
+| `pydns-scanner-windows.exe` | 60.9 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/xullexer/PYDNS-Scanner/pydns-scanner-windows.exe) |
+| `pydns_scanner-2.0.5-py3-none-any.whl` | 43.8 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/xullexer/PYDNS-Scanner/pydns_scanner-2.0.5-py3-none-any.whl) |
+| `pydns_scanner-2.0.5.tar.gz` | 43.7 MB | [⬇️ Download](https://raw.githubusercontent.com/H-Masoumi/LatestReleaseMirror/main/releases/xullexer/PYDNS-Scanner/pydns_scanner-2.0.5.tar.gz) |
 <!-- RELEASES_END -->
